@@ -29,7 +29,7 @@ export default function Home() {
     <div className="main">
         {!clicked ?
         <>
-            <h1>Olá mundo!</h1>
+            <h1>Olá Linda minha</h1>
             <div className='button' onClick={() => setClicked(true)}>Clique aqui para ver o futuro acontecer</div>
         </>
         :
